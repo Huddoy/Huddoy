@@ -19,8 +19,7 @@ I'm a passionate **Software Engineer** focused on building scalable systems and 
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: your.email@example.com *(replace with your contact info)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) *(optional)*
+- 💼 [LinkedIn]https://www.linkedin.com/in/huddoywalters/
 
 ---
 
